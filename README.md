@@ -2,9 +2,8 @@
 ## Report
 ### Brain tumor classification <br>
 ### Done by: Turganbekov Rakhat <br>
-### Group: BDA 2102
 ### GitHub: https://github.com/rakhat21/Final <br>
-### YouTube: https://www.youtube.com/watch?v=Xh-grphPO5o&ab_channel=RakhatTurganbekov 
+
 
 # Introduction:
 
